@@ -8,4 +8,4 @@ There are some pieces of the story hidden in the Collection. After symbols have 
 # Significant Points
 The author uses capitalization to emphasize certain words in the world of The Facility and to make these common nouns into what the characters understand to be proper nouns. Words like "Soul" and "Them" are capitalized to show that in The Facility, these things are specific and refer to something exact. At times the word might be uncapitalized by a character in dialogue, for example, because they don't understand the emphasis The Facility holds to words like "Them".
 # Current Unfixables
-Right now (Jan 16 2020 @ 3:28PM) The inventory or Collection can only be accurately accessed once. To check in the middle of the story mutliple times shows inacurate items or symbols. For this version, check the Collection once at the very end of reading everything.
+Right now (Jan 16 2020 @ 9:12PM) The inventory or Collection can only be accurately accessed once. To check in the middle of the story mutliple times shows inacurate items or symbols. For this version, the Collection is considered broken; it does not fit on the Collection page.
