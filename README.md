@@ -1,3 +1,11 @@
 # The Facility
 This is a digital narrative written on Twine by Sofia Fightmaster.
-[Updated July 18 @ 2:35pm] A new draft of this narrative is in progress. The new interactive fiction will introduce more of a video game feeling where the readers goes into different rooms to track the different sides of the story. It will be more immersive because the readers types their name and chooses preferred pronouns to be referred to by the other characters. The reader will have more of an opportunity to understand the different sides of the story in this new version and the pacing has been fleshed out. Rough draft of this to be published before August. At that time I will write a longer description here.
+# Updates [as of July 19 @ 3:23pm]
+Currently in progress, the incomplete project is currently posted.
+As of right now, the reader can experience some expository lore and explore inside of The Facility. There will be a prompt to enter a name with a prewritten name "Dee Fault" and the reader has the option to choose preferred pronouns to be referred to by the other characters.
+As the reader explores The Facility, questions pose themselves such as, "how did I get here," "what is this place," "how do I get out?" The reader may consider the differences and similarities of reality and fiction.
+# Coming Soon [around August or September 2021]
+Memories - previously I attempted a collection aspect to make the story feel more like a game, and I considered that attempt a fail. I have researched and discovered a new way to include all of these lesser symbols that I felt added a lot to the story could be integrated through the memories or dreams of the characters that the reader meets. This will allow for a more smoothly flowing story to be wriiten and purposely and sporadically interrupted giving the reader a sense of control over the rhythm and pacing over the story. My goal is to give special pieces of information as payoff for following along but allowing those who just want to read through the main storyline the option to not hear about the dreams or memories.
+# Still to come:
+- the end of the story
+- animation
