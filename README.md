@@ -9,3 +9,4 @@ Memories - previously I attempted a collection aspect to make the story feel mor
 # Still to come:
 - the end of the story
 - animation
+## Can anyone help me with the CSS? I will credit you in my final product!
