@@ -10,4 +10,4 @@ Memories - previously I attempted a collection aspect to make the story feel mor
 - the end of the story
 - animation
 # Can anyone help me with the CSS (and Javascript)? I will credit you in my final product! Thank you!!
-*honestly i have no clue why some of the style programming i have written just stops working (e.g. the link colors go back to default but everything else keeps working???) again, my speciality is the story itself, so this and other styling and affects are something i love to include but an ill equipt to do.
+*honestly i have no clue why some of the style programming i have written just stops working (e.g. the link colors go back to default but everything else keeps working???) again, my speciality is the story itself, so this and other styling and affects are something i love to include but am ill equipt to do.
